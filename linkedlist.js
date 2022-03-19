@@ -1,4 +1,4 @@
 function linkedlist() {
-    console.log("lets make a linked list ahaa");
+    console.log("lets make a linked list ahaaaaa");
 
 }
